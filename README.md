@@ -2,8 +2,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjmjmj9840&show_icons=true&theme=material-palenight&count_private=true)
-
 <br><br>
 
 <h3 align="center"> 🛠 Tech 🛠 </h3>
